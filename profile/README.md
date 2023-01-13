@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-WaveUp is the Place where we can all create and scale No-Code applications.
+WaveUp is the Place where we can all create and scale web applications.
 
 ![waveup.dev](https://cldup.com/ivkQGJuTpW.png)
 
