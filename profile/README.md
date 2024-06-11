@@ -1,8 +1,7 @@
 ## Hey, this is us 👋
 
-WaveUp is the Place where we can all create and scale web applications.
-
-![waveup.dev](https://cldup.com/ivkQGJuTpW.png)
+WaveUp is the Place where we can all create and scale smart systems (AI Assistants, Agents, Workflows, Open Source LLMs, Datasets...)
+![waveup.dev](https://cldup.com/4pPMMa9GV7.jpg)
 
 ## 🍿 Resources
 
